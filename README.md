@@ -9,7 +9,7 @@
 <br/>
 
 [![IEEE Paper](https://img.shields.io/badge/IEEE_Paper-18260D?style=flat-square&logo=ieee&logoColor=ABD37A)](https://ieeexplore.ieee.org/document/11710421)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-18260D?style=flat-square&logo=linkedin&logoColor=ABD37A)](https://www.linkedin.com/in/spandan-chavan-3b01a328a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18260D?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0FCRDM3QSIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/spandan-chavan-3b01a328a/)
 [![Gmail](https://img.shields.io/badge/Gmail-18260D?style=flat-square&logo=gmail&logoColor=ABD37A)](mailto:spandanchavan2@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-18260D?style=flat-square&logo=github&logoColor=ABD37A)](https://github.com/SpandanChavan)
 <img src="https://komarev.com/ghpvc/?username=SpandanChavan&style=flat-square&color=3f6212&label=Profile+Views&labelColor=18260D" alt="Profile views"/>
@@ -309,7 +309,7 @@ Solves word problems step by step with an LLM | every answer re-checked with Sym
 <div align="center">
 
 [![IEEE Paper](https://img.shields.io/badge/IEEE_Paper-18260D?style=flat-square&logo=ieee&logoColor=ABD37A)](https://ieeexplore.ieee.org/document/11710421)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-18260D?style=flat-square&logo=linkedin&logoColor=ABD37A)](https://www.linkedin.com/in/spandan-chavan-3b01a328a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18260D?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0FCRDM3QSIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/spandan-chavan-3b01a328a/)
 [![Gmail](https://img.shields.io/badge/Gmail-18260D?style=flat-square&logo=gmail&logoColor=ABD37A)](mailto:spandanchavan2@gmail.com)
 
 *Build AI that runs in production, not just in demos.*
