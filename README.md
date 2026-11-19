@@ -30,6 +30,7 @@ I build AI products that people can actually use: LLM tools, medical imaging and
 | [**Solvely**](https://github.com/SpandanChavan/llm-ps26-21CS045) | Math word-problem tutor. Solves step by step, explains every step, and re-checks each answer with Python before showing it. Includes a Learn mode that reveals one step at a time. | Python, FastAPI, Groq LLM, SymPy |
 | [**Brain Tumor Profiler**](https://github.com/SpandanChavan/brain-tumor-profiler) | Finds brain tumours in MRI scans and shows them slice by slice and in 3D, with a private in-browser mode. Final-year team project. | MONAI, ONNX, TypeScript, NiiVue |
 | [**CivicShield AI**](https://github.com/SpandanChavan/civicshieldai) | Disaster management platform: multi-hazard monitoring, AI risk analytics, multilingual alerts and live maps. | React, Node.js, FastAPI, Supabase / PostGIS |
+| [**VeriLens**](https://github.com/SpandanChavan/AI-Misinformation-Detector) | Fact-checks news claims against trusted sources using semantic search and LLM reasoning. Works in 8 languages and exports PDF reports. | Python, Streamlit, Sentence Transformers, LLM |
 | [**TruthScope**](https://github.com/SpandanChavan/TruthScope) | Verifies government news claims against official sources and explains the verdict with evidence. | Python, LLMs, web scraping |
 | [**Gen AI Internship**](https://github.com/SpandanChavan/Gen-AI-internship) | Projects from my Generative AI internship at Prodigy InfoTech. | Python, Jupyter |
 
