@@ -9,6 +9,7 @@
 <br/>
 
 [![IEEE Paper](https://img.shields.io/badge/IEEE_Paper-18260D?style=flat-square&logo=ieee&logoColor=ABD37A)](https://ieeexplore.ieee.org/document/11710421)
+[![Gmail](https://img.shields.io/badge/Gmail-18260D?style=flat-square&logo=gmail&logoColor=ABD37A)](mailto:spandanchavan2@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-18260D?style=flat-square&logo=github&logoColor=ABD37A)](https://github.com/SpandanChavan)
 <img src="https://komarev.com/ghpvc/?username=SpandanChavan&style=flat-square&color=3f6212&label=Profile+Views&labelColor=18260D" alt="Profile views"/>
 
@@ -305,6 +306,9 @@ Solves word problems step by step with an LLM | every answer re-checked with Sym
 ---
 
 <div align="center">
+
+[![IEEE Paper](https://img.shields.io/badge/IEEE_Paper-18260D?style=flat-square&logo=ieee&logoColor=ABD37A)](https://ieeexplore.ieee.org/document/11710421)
+[![Gmail](https://img.shields.io/badge/Gmail-18260D?style=flat-square&logo=gmail&logoColor=ABD37A)](mailto:spandanchavan2@gmail.com)
 
 *Build AI that runs in production, not just in demos.*
 
