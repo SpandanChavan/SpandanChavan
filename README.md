@@ -160,7 +160,7 @@ Final-year team project | MONAI model fine-tuned on BraTS and exported to ONNX t
 
 Solves word problems step by step with an LLM | every answer re-checked with SymPy before it is shown | Learn mode reveals one step at a time
 
-[`Source`](https://github.com/SpandanChavan/llm-ps26-21CS045)
+[`Live Demo`](https://solvely-tutor.vercel.app) | [`Source`](https://github.com/SpandanChavan/llm-ps26-21CS045)
 
 </td>
 </tr>
